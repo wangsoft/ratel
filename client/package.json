@@ -189,7 +189,7 @@
     "d3": "^5.16.0",
     "dgraph-js-http": "^20.11.0",
     "graphql": "0.13.0",
-    "immer": "^6.0.3",
+    "immer": "^8.0.1",
     "jquery": "^3.5.0",
     "json-bigint": "^0.3.0",
     "jsonwebtoken": "^8.5.1",
